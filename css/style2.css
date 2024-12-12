@@ -1,0 +1,19 @@
+#nawigacja ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: #0d8f16;
+}
+#nawigacja ul li {
+    display: inline;
+    margin-right: 10px;
+}
+#nawigacja ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: inline-block;
+}
+#nawigacja ul li a:hover {
+    background-color: #2512d4;
+}
